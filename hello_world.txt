@@ -1,5 +1,1 @@
-Collaborator and Contribution in Git
-Modification
-.
-.
-.
+Collaborator and Contribution in
